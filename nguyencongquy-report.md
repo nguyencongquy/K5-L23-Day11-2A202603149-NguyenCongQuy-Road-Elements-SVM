@@ -48,7 +48,9 @@ Kết thúc polyline bằng phím **N**. Đặt tag bằng công cụ **Tag** r�
 
 **Người kiểm lô:** Phùng Danh Khoa (MSHV 2A202603206). Đã chấm chéo lô nhãn của Nguyễn Công Quý.
 
-**Quyết định và phản hồi:** Chưa có thông tin chi tiết từ phiếu QC 1. Các thay đổi nêu tại mục 3 đến từ tự kiểm và lint.
+**Kết luận kiểm chéo:** Release. Theo phản hồi của Phùng Danh Khoa, các mục đã kiểm đạt yêu cầu và không có lỗi cần sửa.
+
+**Đối chiếu với lint:** Năm cảnh báo QC1-02 được ghi trong [ghi chú tự kiểm](nguyencongquy-qc1-02-self-check.md) và vẫn chờ coach xác nhận.
 
 ## 5. Kiểm file export
 
