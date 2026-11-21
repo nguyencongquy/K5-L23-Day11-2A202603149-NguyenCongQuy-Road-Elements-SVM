@@ -2,6 +2,8 @@
 
 **Học viên:** Nguyễn Công Quý · **Mã học viên:** 2A202603149
 
+**Hình thức:** Bài cá nhân.
+
 **Guideline:** Road v1.0 · **Lần nộp:** 1
 
 **Phiên bản CVAT:** 2.74.1 (server và UI, xem tại About). Định dạng export CVAT for images 1.1.
@@ -44,9 +46,9 @@ Kết thúc polyline bằng phím **N**. Đặt tag bằng công cụ **Tag** r�
 
 ## 4. Phiếu QC 1 nhận được
 
-**Người kiểm lô:** Chờ thông tin.
+**Người kiểm lô:** Phùng Danh Khoa (MSHV 2A202603206). Đã chấm chéo lô nhãn của Nguyễn Công Quý.
 
-**Quyết định và phản hồi:** Chờ phiếu QC 1 từ người kiểm. Các thay đổi nêu tại mục 3 đến từ tự kiểm và lint.
+**Quyết định và phản hồi:** Chưa có thông tin chi tiết từ phiếu QC 1. Các thay đổi nêu tại mục 3 đến từ tự kiểm và lint.
 
 ## 5. Kiểm file export
 
